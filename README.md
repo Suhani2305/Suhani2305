@@ -1,5 +1,5 @@
 <a href="https://bewithsnehasish.github.io/My-Portfolio.github.io/">
-  <img src="image%20gitub.gif" alt="MasterHead" width="100%">
+  <img src="giphy.webp" alt="MasterHead" width="100%">
 </a>
 
 
