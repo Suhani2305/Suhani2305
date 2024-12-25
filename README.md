@@ -12,6 +12,7 @@
 <div align="center">
   <img src="https://profile-counter.glitch.me/bewithsnehasish/count.svg?"  />
 </div>
+
 # 💫 About Me:
 Driven software engineer with a keen passion for technology and problem-solving. Committed to building innovative solutions and staying ahead of industry trends. Completed my secondary education from CBSE and am currently pursuing B.Tech in CSE at Lovely Professional University 🎓<br><br>🌍 Based in India<br>🖥️ View my portfolio: Want to Know More About Me?<br>✉️ Contact: pushpendrarawat868@gmail.com<br>🌟 Passionate about full-stack development (MERN stack)<br>💻 Proficient in DSA with Java & C++<br>⚡ Adaptable, goal-oriented, and dedicated to making a positive impact in my surroundings 
 
