@@ -91,7 +91,6 @@ I've completed **4+ data science projects**, exploring the world of:
 ### Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) 
- 
 
 ### Cloud & Deployment
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) 
@@ -102,20 +101,16 @@ I've completed **4+ data science projects**, exploring the world of:
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white) 
 ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=plastic&logo=adobe&logoColor=white) 
- 
 
 ### Version Control & DevOps
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white) 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=plastic&logo=github&logoColor=white) 
- 
 
 ### Other Tools
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) 
- 
 
 # 📊 GitHub Stats:
 <div align="center">
- 
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Suhani2305&theme=neon&hide_border=false)
 
@@ -135,13 +130,14 @@ I've completed **4+ data science projects**, exploring the world of:
 
 ---
 
-<div align="center">
-  
-
 ## 🐍 Watch the Snake Eat My Contributions!
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Suhani2305/Suhani2305/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Suhani2305/Suhani2305/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Suhani2305/Suhani2305/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Suhani2305/Suhani2305/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -154,4 +150,4 @@ I've completed **4+ data science projects**, exploring the world of:
 
 </div>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+ 
