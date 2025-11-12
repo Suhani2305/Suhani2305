@@ -1,5 +1,5 @@
 <a href="https://suhani-rawat-72isw5x.gamma.site/">
-  <img src="giphy.webp" alt="MasterHead" width="100%">
+  <img src="suhani.png" alt="MasterHead" width="100%">
 </a>
 
 <h1 align="center">
@@ -9,9 +9,7 @@
 
 <h3 align="center">A passionate Frontend-First Web Developer | B.Tech CSE Student from India</h3>
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Suhani2305/count.svg?"  />
-</div>
+ 
 
 # 💫 About Me:
 Hi! I'm Suhani Rawat, a 2nd-year B.Tech student in Computer Science at Lovely Professional University 🎓. I'm passionate about creating interactive, accessible, and visually appealing user experiences through web development.
