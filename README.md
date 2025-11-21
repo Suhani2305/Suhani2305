@@ -14,7 +14,7 @@
 </div>
 
 # 💫 About Me:
-Hi! I'm Suhani Rawat, a 2nd-year B.Tech student in Computer Science at Lovely Professional University 🎓. I'm passionate about creating interactive, accessible, and visually appealing user experiences through web development, and exploring the fascinating world of AI & Data Science.
+Hi! I'm Suhani Rawat, a 3rd-year B.Tech student in Computer Science at Lovely Professional University 🎓. I'm passionate about creating interactive, accessible, and visually appealing user experiences through web development, and exploring the fascinating world of AI & Data Science.
 
 🌍 Based in Aligarh, Uttar Pradesh, India  
 🖥️ Explore my portfolio: [suhani-rawat-72isw5x.gamma.site](https://suhani-rawat-72isw5x.gamma.site/)  
